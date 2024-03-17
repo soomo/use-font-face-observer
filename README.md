@@ -12,7 +12,7 @@
 ## Installation
 
 ```sh
-yarn add use-font-face-observer
+yarn add @soomo/use-font-face-observer
 ```
 
 ## Usage Examples
